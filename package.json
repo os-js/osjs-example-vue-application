@@ -1,5 +1,7 @@
 {
-  "name": "ExampleVueApplication",
+  "name": "@osjs/example-vue-application",
+  "version": "1.0.0",
+  "description": "OS.js v3 Example Vue Application",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "eslint *.js",
@@ -8,6 +10,18 @@
     "stylelint": "stylelint index.scss src/**/*.scss",
     "prepublishOnly": "npm run eslint && npm run stylelint && rm ./dist/* && npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/os-js/osjs-example-vue-application.git"
+  },
+  "keywords": [
+    "osjs"
+  ],
+  "files": [
+    "dist/",
+    "server.js",
+    "metadata.json"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.2.0",
@@ -30,6 +44,12 @@
     "webpack": "^4.30.0",
     "webpack-cli": "^3.2.1"
   },
+  "author": "Anders Evenrud <andersevenrud@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/os-js/osjs-example-vue-application/issues"
+  },
+  "homepage": "https://github.com/os-js/osjs-example-vue-application#readme",
   "osjs": {
     "type": "package"
   }
