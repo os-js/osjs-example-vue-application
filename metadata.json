@@ -1,0 +1,16 @@
+{
+  "type": "application",
+  "name": "ExampleVueApplication",
+  "category": null,
+  "server": "server.js",
+  "title": {
+    "en_EN": "ExampleVueApplication"
+  },
+  "description": {
+    "en_EN": "ExampleVueApplication"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ]
+}
