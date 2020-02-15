@@ -4,10 +4,12 @@
   "category": null,
   "server": "server.js",
   "title": {
-    "en_EN": "ExampleVueApplication"
+    "en_EN": "ExampleVueApplication",
+    "pt_BR": "Exemplo de Aplicativo Vue"
   },
   "description": {
-    "en_EN": "ExampleVueApplication"
+    "en_EN": "ExampleVueApplication",
+    "pt_BR": "Exemplo de Aplicativo Vue"
   },
   "files": [
     "main.js",
