@@ -1,7 +1,7 @@
 {
   "name": "@osjs/example-vue-application",
-  "version": "1.0.1",
-  "description": "OS.js v3 Example Vue Application",
+  "version": "1.0.2",
+  "description": "OS.js Example Vue Application",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "eslint *.js",
