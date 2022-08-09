@@ -14,7 +14,7 @@
 
 This is an application that uses Vue. Taken from the manual:
 
-* https://manual.os-js.org/v3/guide/framework
+* https://manual.os-js.org/guide/framework
 
 ## Installation
 
@@ -32,7 +32,7 @@ npm run package:discover
 
 ## Documentation
 
-See the [Official Manuals](https://manual.os-js.org/v3/) for articles, tutorials and guides.
+See the [Official Manuals](https://manual.os-js.org/) for articles, tutorials and guides.
 
 ## Links
 
